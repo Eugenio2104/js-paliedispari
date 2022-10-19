@@ -20,5 +20,9 @@ function isPalindromo(stringa){
   }
 }
 
-let test = "annaaa";
+//const button = document.querySelector(`#pal`);
+//button.addEventListener(`click`,);
+
+
+let test = "anna";
 isPalindromo(test);
